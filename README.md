@@ -73,9 +73,7 @@ dot date
 
 ```
 
-## Usage
-
-### Running The Application
+## Running The Application
 
 To run the application using an IDE, follow these steps:
 
