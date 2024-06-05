@@ -18,20 +18,18 @@ This project focuses on creating a streamlined, efficient, and user-friendly pla
 
 ### Prerequisites
 
-- Java 8 or higher
-- MySQL relational database
+- *Java 8 or higher*
+- *MySQL relational database*
 
 ### Clone the repository
-
 ```
 git clone https://github.com/tanishavyastv/railway-management-system.git
 ```
-
 ### Database Setup
 
-Install MySQL
-Set username as root and password as 1234
-Create a database called Railway
+- *Install MySQL*
+- *Set username as root and password as 1234*
+- *Create a database called Railway*
 
 ## Create MySQL Tables
 
@@ -77,7 +75,7 @@ dot date
 
 ## Usage
 
-### Running the application
+### Running The Application
 
 To run the application using an IDE, follow these steps:
 
